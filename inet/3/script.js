@@ -34,7 +34,7 @@ function setHands(){
   var hour = d.getHours()%12; // % needed because there is only 12 hours on analog watch
 
   var secondHandAngle = (sec*360)/60-90; //-90 because CSS set hands horizontaly when angle is 0deg
-  if (secondHandAngle >= 180 && secondHandAngle <= 270)
+  if (secondHandAngle >= 90 && secondHandAngle <= 270)
   {
     document.querySelector('.text').classList.add('none');
   }
