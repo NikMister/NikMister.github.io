@@ -5,7 +5,6 @@ html, body {
 body {
     margin: 0;
 
-    background-color:#ff00cc;
     background: linear-gradient(45deg, #ff00cc, #333399);
     background-size: 300% 300%;
     animation: gradient 10s ease infinite;
