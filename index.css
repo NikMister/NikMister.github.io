@@ -52,7 +52,7 @@ body {
 .textName{
     color: rgb(255, 255, 255);
     position: absolute;
-    left: 50%;
+    left: 40%;
     bottom: 50%;
     display: block;
     font-weight: bold;
