@@ -53,10 +53,19 @@ body {
     color: rgb(255, 255, 255);
     position: absolute;
     left: 40%;
-    bottom: 50%;
+    bottom: 65%;
     display: block;
     font-weight: bold;
     font-size: 65px;
+}
+.textName2{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 50%;
+    top: 65%;    
+    display: block;
+    font-weight: bold;
+    font-size: 35px;
 }
 .name{
     position: absolute;
