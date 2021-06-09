@@ -61,7 +61,16 @@ body {
 .textName2{
     color: rgb(255, 255, 255);
     position: absolute;
-    left: 50%;
+    left: 35%;
+    top: 65%;    
+    display: block;
+    font-weight: bold;
+    font-size: 35px;
+}
+.textName3{
+    color: rgb(255, 255, 255);
+    position: absolute;
+    left: 65%;
     top: 65%;    
     display: block;
     font-weight: bold;
